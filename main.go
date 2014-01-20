@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"github.com/PuerkitoBio/goquery"
 	"github.com/mrjones/oauth"
-	"github.com/yosssi/goes/consts"
+	"github.com/yosssi/cfnews/consts"
 	"github.com/yosssi/gologger"
 	"github.com/yosssi/goutils"
 	"io/ioutil"
